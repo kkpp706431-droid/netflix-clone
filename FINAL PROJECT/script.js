@@ -1,0 +1,1 @@
+function toggleHelp() { let box = document.getElementById("helpItems"); let arrow = document.getElementById("arrow"); box.classList.toggle("open"); arrow.innerHTML = box.classList.contains("open") ? "▲" : "▼"; }

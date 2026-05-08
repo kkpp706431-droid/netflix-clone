@@ -1,0 +1,131 @@
+body {background-image: url(ChatGPT\ Image\ Apr\ 19\,\ 2026\,\ 09_57_42\ PM.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    /* min-height: 180vh; */
+    
+}
+#heroimg
+{
+    height: 300px;
+}
+select
+
+{
+height: 120px;
+width: 430px;
+background-color: transparent;
+ color: white;
+ font-size: 55px;
+ border-radius: 15px;
+ margin-left: auto;
+ padding: 20px;
+ 
+ 
+}
+option
+{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    font-size: 55px;
+}
+#signin
+{
+    height: 120px;
+    width: 270px;
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    margin-right: 180px;
+    margin-left: 50px;
+} 
+#signin:hover
+{
+    background-color: rgb(167, 0, 0);
+    cursor: pointer;
+    transition: all 0.3s ease;
+   
+}          
+#container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  
+}
+img
+{
+    margin-left: 100px;
+}
+#maincontainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 400px;
+    gap: 50px;
+  
+
+}
+h1{
+    font-size: 150px;
+    text-align: center;
+   text-overflow: ellipsis;
+}
+h2{
+    font-size: 80px;
+    text-align: center;  
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+}
+#email
+{  
+    color: rgb(245, 245, 245);
+    height: 152px;
+    width: 850px;
+    font-size: 60px;
+    border: 1px solid rgb(110, 110, 110);
+    background-color: transparent;
+    border-radius: 15px;
+   
+   
+}
+
+#getbutton
+{
+    height: 165px;
+    width: 450px;
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+    margin: auto;
+    margin-left: 10px;
+    font-weight: 900;
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#getbutton:hover
+{
+    background-color: rgb(167, 0, 0);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+
+
+         /* experiment>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>!!!!!!! */
